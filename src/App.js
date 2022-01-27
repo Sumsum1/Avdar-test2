@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState, useRef } from 'react';
 import movie from './profile.webm';
 
 function App() {
